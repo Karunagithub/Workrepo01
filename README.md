@@ -1,2 +1,2 @@
 # Workrepo01
-First sample repo
+First sample repo for Training.
